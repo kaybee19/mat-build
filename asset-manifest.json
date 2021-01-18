@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a340f2d.chunk.css",
+    "main.js": "/static/js/main.fa8a1f6c.chunk.js",
+    "main.js.map": "/static/js/main.fa8a1f6c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.192779e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.192779e0.js.map",
+    "static/css/2.6dbccb46.chunk.css": "/static/css/2.6dbccb46.chunk.css",
+    "static/js/2.391a77a8.chunk.js": "/static/js/2.391a77a8.chunk.js",
+    "static/js/2.391a77a8.chunk.js.map": "/static/js/2.391a77a8.chunk.js.map",
+    "static/js/3.af4d3d7c.chunk.js": "/static/js/3.af4d3d7c.chunk.js",
+    "static/js/3.af4d3d7c.chunk.js.map": "/static/js/3.af4d3d7c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6dbccb46.chunk.css.map": "/static/css/2.6dbccb46.chunk.css.map",
+    "static/css/main.4a340f2d.chunk.css.map": "/static/css/main.4a340f2d.chunk.css.map",
+    "static/js/2.391a77a8.chunk.js.LICENSE.txt": "/static/js/2.391a77a8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/ppText.62e0fc30.png",
+    "static/media/carousel1.90968bb1.jpg": "/static/media/carousel1.90968bb1.jpg",
+    "static/media/carousel2.ef284726.jpg": "/static/media/carousel2.ef284726.jpg",
+    "static/media/carousel3.b51545c6.jpg": "/static/media/carousel3.b51545c6.jpg",
+    "static/media/carousel4.67304096.jpg": "/static/media/carousel4.67304096.jpg",
+    "static/media/cement.d40a7699.jpg": "/static/media/cement.d40a7699.jpg",
+    "static/media/dangote.5342b18b.png": "/static/media/dangote.5342b18b.png",
+    "static/media/gravel.9a38497a.jpg": "/static/media/gravel.9a38497a.jpg",
+    "static/media/how1.f92269a3.png": "/static/media/how1.f92269a3.png",
+    "static/media/how2.6207ef70.png": "/static/media/how2.6207ef70.png",
+    "static/media/how3.4ffd25ae.png": "/static/media/how3.4ffd25ae.png",
+    "static/media/lumber.e2aaf7af.jpg": "/static/media/lumber.e2aaf7af.jpg",
+    "static/media/map.262009b7.png": "/static/media/map.262009b7.png",
+    "static/media/roof.933fd276.jpg": "/static/media/roof.933fd276.jpg",
+    "static/media/seal.ab2c3675.png": "/static/media/seal.ab2c3675.png",
+    "static/media/team.097dc518.jpg": "/static/media/team.097dc518.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.192779e0.js",
+    "static/css/2.6dbccb46.chunk.css",
+    "static/js/2.391a77a8.chunk.js",
+    "static/css/main.4a340f2d.chunk.css",
+    "static/js/main.fa8a1f6c.chunk.js"
+  ]
+}
